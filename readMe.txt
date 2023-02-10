@@ -7,7 +7,7 @@ The following list must be deployed to run the service:
 -git
 
 Steps :
-- clone this workspace on your local >> git clone 
+- clone this workspace on your local >> https://github.com/mahmoudwaf/workmotion_ems.git
 - run batch file "run local" to check if the env. is Ok
 - run batch file "build" to package 
 - run batch file "deploy" to build docker image and run docker compose >> run docker container
